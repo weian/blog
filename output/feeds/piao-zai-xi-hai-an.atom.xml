@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>硅基余温 - 飘在西海岸</title><link href="/" rel="alternate"/><link href="feeds/piao-zai-xi-hai-an.atom.xml" rel="self"/><id>/</id><updated>2026-01-06T10:00:00+00:00</updated><entry><title>My First Blog Post</title><link href="my-first-post.html" rel="alternate"/><published>2026-01-06T10:00:00+00:00</published><updated>2026-01-06T10:00:00+00:00</updated><author><name>飘在西海岸</name></author><id>tag:None,2026-01-06:my-first-post.html</id><summary type="html">&lt;p&gt;Welcome to my personal blog! This is my first post.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome to My Personal Blog!&lt;/h1&gt;
+&lt;p&gt;Hello and welcome! This is my first blog post using Pelican, a static site generator written in Python.&lt;/p&gt;
+&lt;h2&gt;Why Pelican?&lt;/h2&gt;
+&lt;p&gt;Pelican is a great choice for creating static blogs because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simple&lt;/strong&gt;: Easy to set up and use&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible&lt;/strong&gt;: Supports themes and plugins&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fast&lt;/strong&gt;: Generates static HTML for quick loading&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python-powered&lt;/strong&gt;: Written in Python, easy to extend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What's Next?&lt;/h2&gt;
+&lt;p&gt;I'll be sharing my thoughts, tutorials, and projects here. Stay tuned for more content!&lt;/p&gt;
+&lt;h2&gt;Code Example&lt;/h2&gt;
+&lt;p&gt;Here's a simple Python code example:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;greet&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="sa"&gt;f&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Hello, &lt;/span&gt;&lt;span class="si"&gt;{&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;!&amp;quot;&lt;/span&gt;
+
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;greet&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;World&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Thanks for visiting!&lt;/p&gt;</content><category term="General"/><category term="welcome"/><category term="introduction"/></entry></feed>

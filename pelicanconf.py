@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = '彼岸西飘'
-SITENAME = '硅基余温'
+SITENAME = '比特微尘'
 SITEURL = ''
 
 PATH = 'content'
@@ -13,7 +13,7 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'en'
 
 # GitHub URL (optional)
-GITHUB_URL = 'https://github.com/yourusername/blog/'
+GITHUB_URL = 'https://github.com/weian/blog/'
 
 # Favicon
 # FAVICON_URL = 'static/images/favicon.ico'
@@ -38,8 +38,8 @@ TRANSLATION_FEED_ATOM = None
 
 # Social widget (commented out for clean design)
 # SOCIAL = (
-#     ('GitHub', 'https://github.com/yourusername'),
-#     ('Twitter', 'https://twitter.com/yourusername'),
+#     ('GitHub', 'https://github.com/weian'),
+#     ('Twitter', 'https://twitter.com/anwei'),
 # )
 
 # Static paths
