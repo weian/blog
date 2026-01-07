@@ -11,6 +11,7 @@ ENV/
 .venv
 
 # Pelican
+output/
 *.pid
 *.log
 

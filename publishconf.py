@@ -14,6 +14,13 @@ from pelicanconf import *
 SITEURL = 'https://weian.github.io/blog'
 RELATIVE_URLS = False
 
+# Override menu items with absolute paths for production
+MENUITEMS = (
+    ('Archives', '/blog/archives.html'),
+    ('About', '/blog/pages/about.html'),
+    ('Subscribe', '/blog/pages/feed.html'),
+)
+
 # Feed configuration for production
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'feeds/atom.xml'
