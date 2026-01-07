@@ -50,9 +50,9 @@ EXTRA_PATH_METADATA = {
 
 # Menu items
 MENUITEMS = (
-    ('Archives', '/archives.html'),
-    ('About', '/pages/about.html'),
-    ('Subscribe', '/pages/feed.html'),
+    ('Archives', 'archives.html'),
+    ('About', 'pages/about.html'),
+    ('Subscribe', 'pages/feed.html'),
     # Add more menu items as needed
 )
 
