@@ -11,14 +11,14 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://weian.github.io/blog'
+SITEURL = 'https://www.weian.me'
 RELATIVE_URLS = False
 
 # Override menu items with absolute paths for production
 MENUITEMS = (
-    ('Archives', '/blog/archives.html'),
-    ('About', '/blog/pages/about.html'),
-    ('Subscribe', '/blog/pages/feed.html'),
+    ('Archives', '/archives.html'),
+    ('About', '/pages/about.html'),
+    ('Subscribe', '/pages/feed.html'),
 )
 
 # Feed configuration for production

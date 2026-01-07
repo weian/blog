@@ -13,7 +13,7 @@ TIMEZONE = 'UTC'
 DEFAULT_LANG = 'en'
 
 # GitHub URL (optional)
-GITHUB_URL = 'https://github.com/weian/blog/'
+SITEURL = 'https://weian.me'
 
 # Favicon
 # FAVICON_URL = 'static/images/favicon.ico'
